@@ -1,0 +1,61 @@
+.Twilio-CRMContainer {
+  max-width: 100%;
+}
+
+.deals-container {
+  font-family: "Open Sans", sans-serif;
+  padding: 20px;
+  width: 100%;
+  max-width: 100%;
+  background-color: rgb(244, 244, 246);
+}
+
+.deals-container h2 {
+  text-align: center;
+  color: #333;
+  font-size: 1.25rem;
+  margin-bottom: 1em;
+}
+
+.deals-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.deal-item {
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 3px;
+  margin-bottom: 15px;
+  padding: 15px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+  width: 49%;
+}
+
+.deal-item strong {
+  display: block;
+  margin-bottom: 4px;
+  color: #555;
+  font-weight: 600;
+}
+
+.deal-item p {
+  margin: 0 0 8px 0;
+  color: #333;
+  font-size: 0.8rem;
+}
+
+.loading,
+.error {
+  text-align: center;
+  color: #666;
+  font-size: 1.2rem;
+  margin: 20px 0;
+}
+
+.error {
+  color: #d9534f;
+}

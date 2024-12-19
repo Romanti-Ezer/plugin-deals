@@ -3,9 +3,13 @@
 This plugin replaces the content of the CRMContainer when a task is selected and it has a customerID in the attributes.
 It was created with the purpose of showing the possibilities with Flex Plugin Development and it's not production ready.
 
-<img src="./FlexUI-Customized.png" width="800" alt="Twilio Flex and the customized CRM Container">
+<img src="./resources/FlexUI-Customized.png" width="800" alt="Twilio Flex and the customized CRM Container">
 
 Twilio Flex Plugins allow you to customize the appearance and behavior of [Twilio Flex](https://www.twilio.com/flex). If you want to learn more about the capabilities and how to use the API, check out our [Flex documentation](https://www.twilio.com/docs/flex).
+
+## Example Serverless
+
+Please access the example serverless functions in the [resources](./resources) folder.
 
 ## Setup
 
